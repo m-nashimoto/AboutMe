@@ -1,5 +1,5 @@
 - Hi, I’m @nmasana
-- I’m currently learning ... WebDev.. I've been on and off learning coding, I finally narrow down to pursue in webdev 10/8/21
+- I’m currently learning ... WebDev.. I've been on and off learning few different languages of coding, I finally narrowed down to pursue in webdev 10/8/21
 - How to reach me ... https://twitter.com/NashimotoMasana
 
 <!---
