@@ -3,7 +3,6 @@
 
 - How to reach me:
 - https://www.linkedin.com/in/masana-nashimoto/
--  https://twitter.com/N_Masana
 
 <!---
 nmasana/nmasana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
